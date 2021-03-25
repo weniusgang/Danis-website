@@ -1,27 +1,30 @@
-<h1>Revolutionary Net Art</h1>
-<h2>by dani</h2>
-<h3>this is my art :)</h3>
 
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-</head>
-<body>
+<html lang="en-US">
+<body style="background-color:powderblue;">
+  
+ <h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p> 
+  
+   <h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p> 
+  
+   <h1 style="font-size:300%;">This is a heading</h1>
+<p style="font-size:160%;">This is a paragraph.</p> 
+  
+  
+  
+   <h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3> 
+  
+   <p>This is a paragraph.</p>
+<p>This is another paragraph.</p> 
+  
+   <a href="https://www.w3schools.com">This is a link</a> 
+  
+   <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
+  
 
-<h1>All about me</h1>
-
-<p>&#9801;</p>
-  <h2>
-     Videos
-  </h2>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/ffo5IDovJqE">
-</iframe>
-
-<
 </body>
-</html>
+</html> 
